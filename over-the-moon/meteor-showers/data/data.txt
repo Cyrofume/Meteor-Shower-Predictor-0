@@ -1,0 +1,6 @@
+The following is factors to consider
+not mentioned or used for this project:
+
+    Weather
+    Other comets or known meteors
+    City light pollution
